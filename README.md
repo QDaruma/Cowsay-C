@@ -155,8 +155,6 @@ Ce projet est conçu pour :
 - **Découvrir la programmation C** avec des projets amusants
 - **Comprendre les algorithmes** mathématiques de base
 - **Développer des interfaces** en mode texte
-- **S'amuser** tout en programmant !
-
 
 ## 👥 Crédits
 
